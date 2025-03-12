@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+.NET developer, gamer, a little modder :)
+
 <!--
 **1249993110/1249993110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
